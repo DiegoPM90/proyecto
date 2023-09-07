@@ -1,4 +1,4 @@
-![logo Reciclaje textil]()
+![Logo de mi proyecto]()
 
 <hr>
 
