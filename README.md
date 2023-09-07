@@ -31,11 +31,11 @@ Los materiales textiles se pueden reciclar de diferentes maneras, como la tritur
 
 ### Creación de nuevos productos. 
 
-Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como ropa, alfombras, mantas y otros artículos.
+Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como Ropa, Sombreros, Gorros, Fundas de instrumentos, 
 
 
 <p align="center">
-   <img src="https://github.com/DiegoPM90/proyecto/blob/main/img/foto%20portada%202.jpg" #vitrinedev/>
+   <img src="https://github.com/DiegoPM90/proyecto/blob/main/img/foto%20seccion3.jpeg" #vitrinedev/>
 </p>
 
 
