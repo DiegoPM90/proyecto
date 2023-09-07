@@ -3,15 +3,15 @@
 <hr>
 
 <p align="center">
-   <img src="https://www.pexels.com/es-es/foto/ligero-moda-creativo-industria-7256872/" #vitrinedev/>
+   <img src="https://www.pexels.com/es-es/foto/ligero-moda-creativo-industria-7256872/](https://github.com/DiegoPM90/proyecto/blob/main/img/scissors_2.svg)" #vitrinedev/>
 </p>
 
-### Tópicos 
+### Indice 
 
-- [Descrição do projeto](#descrição-do-projeto)
+- [Descripcion del proyecto](#descripcion-do-projeto)
 
 
-## Descrição do projeto 
+## Descripcion do projeto 
 
 <p align="justify">
  Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
