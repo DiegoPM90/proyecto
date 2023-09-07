@@ -9,7 +9,7 @@
 # Indice 
 
 - [Descripción del proyecto](#descripción-del-projeto)
-- [Proceso de selección](#descripción-del-projeto)
+- [Proceso de selección](#proceso-de-selección)
 
 
 
