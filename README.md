@@ -34,7 +34,9 @@ Los materiales textiles se pueden reciclar de diferentes maneras, como la tritur
 Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como ropa, alfombras, mantas y otros artículos.
 
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+<p align="center">
+   <img src="https://github.com/DiegoPM90/proyecto/blob/main/img/foto%20portada%202.jpg" #vitrinedev/>
 </p>
+
 
 
