@@ -10,6 +10,7 @@
 
 - [Descripción del proyecto](#descripción-del-projeto)
 - [Proceso de selección](#proceso-de-selección)
+- [Procesamiento de los materiales](#procesamiento-de-los-materiales)
 
 
 
@@ -40,7 +41,7 @@ Seleccionamos los materiales textiles que se pueden reciclar, de origen natural 
 Seleccionamos los materiales textiles que se pueden reciclar, de origen natural como el algodón, el lino y la lana, y los de origen sintético, como el poliéster y el acrílico. 
 
 
-### Procesamiento de los materiales. 
+### Procesamiento de los materiales
 Los materiales textiles se pueden reciclar de diferentes maneras, como la trituración, la separación por fibras y el hilado.
 
 ### Creación de nuevos productos. 
