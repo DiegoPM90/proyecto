@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-   <img src="https://www.pexels.com/es-es/foto/ligero-moda-creativo-industria-7256872/](https://github.com/DiegoPM90/proyecto/blob/main/img/scissors_2.svg)" #vitrinedev/>
+   <img src="https://github.com/DiegoPM90/proyecto/blob/main/img/foto%20portada%202.jpg" #vitrinedev/>
 </p>
 
 # Indice 
