@@ -11,6 +11,7 @@
 - [Descripción del proyecto](#descripción-del-projeto)
 - [Proceso de selección](#proceso-de-selección)
 - [Procesamiento de los materiales](#procesamiento-de-los-materiales)
+- [Creación de nuevos productos](#creación-de-nuevos-productos)
 
 
 
@@ -46,7 +47,7 @@ Los materiales textiles se pueden reciclar de diferentes maneras, como la tritur
 
 ### Creación de nuevos productos. 
 
-Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como Ropa, Sombreros, Gorros, Fundas de instrumentos, 
+Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como Ropa, Sombreros, Gorros, Fundas de instrumentos, accesorios y más! 
 
 
 <p align="center">
