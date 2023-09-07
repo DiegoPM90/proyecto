@@ -6,7 +6,7 @@
    <img src="https://github.com/DiegoPM90/proyecto/blob/main/img/foto%20portada%202.jpg" #vitrinedev/>
 </p>
 
-# Indice 
+# **Indice** 
 
 - [Descripción del proyecto](#descripción-del-projeto)
 - [Proceso de selección](#proceso-de-selección)
@@ -15,7 +15,7 @@
 
 
 
-### Descripción del projeto 
+### Descripción del proyecto 
 
 <p align="justify">
  Un proyecto de reciclaje textil y ecológico tenemos los siguientes objetivos:
