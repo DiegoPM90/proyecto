@@ -24,7 +24,7 @@ Reducir la cantidad de residuos textiles que van a los vertederos.
 Proteger el medio ambiente de los contaminantes producidos por la industria textil.
 Crear nuevos productos a partir de materiales reciclados.
 Promover la economía circular.
-Para alcanzar estos objetivos, un proyecto de reciclaje textil y ecológico debe tener en cuenta los siguientes aspectos:
+
 
 ### Proceso de selección
 
