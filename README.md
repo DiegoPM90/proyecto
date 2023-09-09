@@ -8,12 +8,21 @@
 
 # **Indice** 
 
-- [Descripción del proyecto](#descripción-del-projeto)
+- [Introducción](#introducción)
+- [Descripción del proyecto](#descripción-del-proyecto)
 - [Proceso de selección](#proceso-de-selección)
 - [Procesamiento de los materiales](#procesamiento-de-los-materiales)
 - [Creación de nuevos productos](#creación-de-nuevos-productos)
 
 
+
+### Introducción
+
+La industria textil es una de las más contaminantes del mundo. Cada año, se producen miles de millones de toneladas de textiles, de los cuales una gran parte termina en vertederos.
+
+El reciclaje textil es una forma de reducir el impacto ambiental de esta industria. Consiste en convertir ropa usada, material fibroso y restos de ropa del proceso de fabricación en nuevos productos textiles.
+
+La confección de prendas con enfoque ecológico es una tendencia creciente que busca reducir el impacto ambiental de la moda y articulos textiles.  Esta tendencia se basa en el uso de materiales sostenibles, procesos de producción respetuosos con el medio ambiente y prácticas de consumo responsables.
 
 ### Descripción del proyecto 
 
@@ -35,7 +44,7 @@ Los materiales textiles se pueden reciclar de diferentes maneras, como la tritur
 
 ### Creación de nuevos productos. 
 
-Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, como Ropa, Sombreros, Gorros, Fundas de instrumentos, accesorios y más! 
+Los materiales textiles reciclados se pueden utilizar para crear nuevos productos, accesorios, Fundas de instrumentos musicales y más! 
 
 
 <p align="center">
